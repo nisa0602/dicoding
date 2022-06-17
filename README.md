@@ -1,0 +1,1 @@
+This repo is for documenting my learning journey with Dicoding
